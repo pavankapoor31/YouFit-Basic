@@ -12,7 +12,7 @@ body {
     width: 1200px;
     margin: 0px;
     padding: 0px;    
-    background-image: url('/img/bg_image.jpg');
+    background-image: url('img/bg_image.jpg');
     height: 670px;       
     /* background-size:cover; */
     background-color: #121212;
